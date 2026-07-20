@@ -8,11 +8,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 ## 🧠 Topics Covered
 - Arrays
 - Strings
-- Recursion
-- Dynamic Programming
 - Linked List
-- Stack & Queue
-- Trees & Graphs
 
 ---
 
