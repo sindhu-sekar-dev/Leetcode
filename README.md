@@ -73,4 +73,8 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 <!---LeetCode Topics End-->
