@@ -52,6 +52,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -73,6 +74,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0011-container-with-most-water](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 ## Binary Search
@@ -105,4 +107,5 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
