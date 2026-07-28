@@ -63,6 +63,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0013-roman-to-integer](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
