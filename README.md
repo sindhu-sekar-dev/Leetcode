@@ -97,6 +97,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0014-longest-common-prefix](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,4 +122,9 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
