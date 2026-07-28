@@ -77,4 +77,8 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
