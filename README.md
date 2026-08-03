@@ -64,6 +64,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0141-linked-list-cycle](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0344-reverse-string](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -106,6 +107,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0020-valid-parentheses](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0344-reverse-string](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
