@@ -64,6 +64,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0042-trapping-rain-water](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -94,6 +95,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0033-search-in-rotated-sorted-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +120,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0012-integer-to-roman](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
+| [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
