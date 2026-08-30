@@ -99,6 +99,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0049-group-anagrams](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0133-clone-graph](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Array
@@ -312,6 +313,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0130-surrounded-regions](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0133-clone-graph](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0133-clone-graph/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,6 +328,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0133-clone-graph](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0133-clone-graph/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -338,4 +341,8 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0133-clone-graph/) | Medium |
 <!---LeetCode Topics End-->
