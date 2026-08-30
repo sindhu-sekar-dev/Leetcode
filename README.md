@@ -285,4 +285,17 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0079-word-search/) | Medium |
+| [0112-path-sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0112-path-sum/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0112-path-sum/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0112-path-sum/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
