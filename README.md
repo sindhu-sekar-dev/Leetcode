@@ -140,6 +140,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0118-pascals-triangle](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0120-triangle/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0561-array-partition](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Binary Search
@@ -235,6 +236,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0118-pascals-triangle](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0120-triangle/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
