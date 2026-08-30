@@ -40,6 +40,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0086-partition-list](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -288,19 +289,23 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0079-word-search](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0112-path-sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 <!---LeetCode Topics End-->
