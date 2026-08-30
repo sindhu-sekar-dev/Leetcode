@@ -47,6 +47,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0050-powx-n](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -138,6 +139,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0029-divide-two-integers](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
