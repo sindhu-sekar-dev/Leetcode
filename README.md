@@ -98,6 +98,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0033-search-in-rotated-sorted-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0039-combination-sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0561-array-partition](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
@@ -148,6 +149,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0039-combination-sum/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
