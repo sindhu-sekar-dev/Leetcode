@@ -66,6 +66,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0031-next-permutation](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -122,6 +123,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0064-minimum-path-sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0561-array-partition](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Binary Search
@@ -179,6 +181,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0047-permutations-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0561-array-partition](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -242,8 +245,13 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0075-sort-colors/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0062-unique-paths/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
