@@ -148,6 +148,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0128-longest-consecutive-sequence](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0134-gas-station/) | Medium |
+| [0136-single-number](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0561-array-partition](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Binary Search
@@ -262,6 +263,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0078-subsets](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0136-single-number/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
