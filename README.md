@@ -175,6 +175,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0093-restore-ip-addresses](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -227,6 +228,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0089-gray-code](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +247,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0120-triangle](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
