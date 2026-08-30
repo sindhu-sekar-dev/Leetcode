@@ -145,6 +145,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0561-array-partition](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Binary Search
@@ -275,6 +276,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0073-set-matrix-zeroes](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0079-word-search/) | Medium |
+| [0130-surrounded-regions](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,6 +308,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0130-surrounded-regions](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +322,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0112-path-sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0130-surrounded-regions](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,4 +334,5 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 <!---LeetCode Topics End-->
