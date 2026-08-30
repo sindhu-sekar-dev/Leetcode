@@ -141,6 +141,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0043-multiply-strings](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0072-edit-distance](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0344-reverse-string](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -195,6 +196,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0062-unique-paths](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0072-edit-distance](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0072-edit-distance/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
