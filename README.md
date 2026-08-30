@@ -75,6 +75,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0086-partition-list/) | Medium |
+| [0125-valid-palindrome](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -170,6 +171,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0079-word-search](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0097-interleaving-string/) | Medium |
+| [0125-valid-palindrome](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
