@@ -109,6 +109,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0048-rotate-image](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0561-array-partition](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Binary Search
@@ -198,10 +199,12 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0054-spiral-matrix](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
