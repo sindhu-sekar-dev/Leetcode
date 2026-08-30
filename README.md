@@ -161,6 +161,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0071-simplify-path](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0079-word-search/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0344-reverse-string](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -211,6 +212,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0079-word-search](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
