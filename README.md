@@ -87,6 +87,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Array
@@ -119,6 +120,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0059-spiral-matrix-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0561-array-partition](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Binary Search
@@ -222,6 +224,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0059-spiral-matrix-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
