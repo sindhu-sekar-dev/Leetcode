@@ -113,6 +113,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0055-jump-game](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0057-insert-interval/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0561-array-partition](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Binary Search
@@ -206,11 +207,13 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0036-valid-sudoku](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
