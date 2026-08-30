@@ -120,6 +120,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0022-generate-parentheses](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0344-reverse-string](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -128,6 +129,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0012-integer-to-roman](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
+| [0043-multiply-strings](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -177,4 +179,8 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
