@@ -103,6 +103,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0042-trapping-rain-water](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0561-array-partition](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Binary Search
@@ -149,6 +150,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0015-3sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0561-array-partition](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -158,6 +160,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0039-combination-sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
