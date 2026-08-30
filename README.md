@@ -102,6 +102,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0040-combination-sum-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0561-array-partition](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Binary Search
@@ -156,6 +157,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0022-generate-parentheses](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0046-permutations/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
