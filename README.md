@@ -82,6 +82,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0013-roman-to-integer](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0049-group-anagrams](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Array
@@ -105,6 +106,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0046-permutations](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0561-array-partition](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Binary Search
@@ -125,6 +127,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0049-group-anagrams](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0344-reverse-string](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -153,6 +156,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0016-3sum-closest](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0561-array-partition](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
