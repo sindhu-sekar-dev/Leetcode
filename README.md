@@ -112,6 +112,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0054-spiral-matrix](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0561-array-partition](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Binary Search
