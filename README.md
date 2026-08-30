@@ -77,6 +77,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -139,6 +140,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0038-count-and-say](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0071-simplify-path](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0344-reverse-string](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
