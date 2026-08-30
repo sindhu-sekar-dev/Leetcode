@@ -133,6 +133,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0079-word-search](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0090-subsets-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0561-array-partition](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Binary Search
@@ -208,6 +209,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0078-subsets](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +232,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0029-divide-two-integers](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
