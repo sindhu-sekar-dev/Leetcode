@@ -171,6 +171,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0048-rotate-image](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0089-gray-code](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -206,6 +207,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0077-combinations](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0079-word-search/) | Medium |
+| [0089-gray-code](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0089-gray-code/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +229,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0089-gray-code/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
