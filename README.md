@@ -148,6 +148,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0043-multiply-strings](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -187,6 +188,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0045-jump-game-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0062-unique-paths/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,4 +226,8 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
