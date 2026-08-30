@@ -128,6 +128,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0078-subsets](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0561-array-partition](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Binary Search
@@ -136,6 +137,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0033-search-in-rotated-sorted-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
