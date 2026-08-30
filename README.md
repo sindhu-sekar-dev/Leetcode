@@ -124,6 +124,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0073-set-matrix-zeroes](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0189-rotate-array](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0561-array-partition](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Binary Search
@@ -193,6 +194,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | [0046-permutations](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0078-subsets/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +215,7 @@ This repo contains my solutions to various coding problems, mainly focused on im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
+| [0078-subsets](https://github.com/sindhu-sekar-dev/Leetcode/tree/main/0078-subsets/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
